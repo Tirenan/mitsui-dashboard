@@ -12,8 +12,13 @@ body {
   font-family: NeoSans, Arial, sans-serif;
   background-color: #E2E2E2 !important;
 }
+
+@font-face {
+  font-family: 'clearSa';
+  src: url('/stylesheets/fonts/ClearSans-Bold.ttf');
+}
 .texto{
-  font-family:inherit;
+font-family: 'clearSa';
   color:black;
 }
 .page-wrapper {
