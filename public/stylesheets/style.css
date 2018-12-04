@@ -1,0 +1,100 @@
+body {
+  padding: 20px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.re{
+  border-radius: 10px !important;
+  text-align: center;
+  padding: 1rem 2rem !important; 
+}
+.tme{
+  background-color: #de7630 !important;
+    color: white !important;
+}
+.tma{
+  background-color: #409e2d !important;
+  color: white !important;
+}
+.recebidas{
+  background-color: #5ca5cd !important;
+  color: white !important;
+}
+.efetuadas{
+  background-color: burlywood !important;
+  color: white !important;
+}
+.abandono{
+  background-color: #d81717cc !important;
+  color: white !important;
+}
+ .LoginForm{ 
+  background:linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(224, 224, 231) 81%, rgb(202, 206, 218) 100%)!important;
+    height: auto;
+    min-height: 100%;
+}
+
+.form-heading { color:#fff; font-size:23px;}
+.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
+.panel p { color:#777777; font-size:14px; margin-bottom:30px; line-height:24px;}
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+  margin-bottom:10px;
+}
+.login-form{ text-align:center;}
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.login-form  .btn.btn-primary {
+  background: #f0ad4e none repeat scroll 0 0;
+  border-color: #f0ad4e;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+.forgot {
+  text-align: left; margin-bottom:30px;
+}
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+.login-form .btn.btn-primary.reset {
+  background: #ff9900 none repeat scroll 0 0;
+}
+.back { text-align: left; margin-top:10px;}
+.back a {color: #444444; font-size: 13px;text-decoration: none;}
+.login{
+  margin-left: 50%;
+  background-color: transparent;
+}
+.logoff{
+  float: right;
+    color: black;
+    padding: 2%;
+}
